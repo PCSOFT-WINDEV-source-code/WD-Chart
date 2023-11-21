@@ -1,0 +1,379 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Chart
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : The purpose of the project is to present the features of the different charts.
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Chart
+    internal_properties : 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
+    configuration_id : 991825969427770849
+    type : 1
+    generation_name : WD Chart.exe
+    version :
+     major_version : 23
+     minor_version : 31
+     internal_generation_version : 4
+     autoincrement_version : false
+    icon_filename : .\icon.ico
+    language : 2
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAADHUxQOtSbXO4Pj9hOC7juUn2FWn1zTh3KxCwMZWq6xv8mgQRiZYTi8DZaFT2S6v1ETT5GE5IZg8grIRA==
+ elements :
+  identifier : 0x4ac600b90021bcc0
+  elements :
+   -
+     name : WIN_Scatter
+     identifier : 0x492684ef0001fb03
+     internal_properties : CAAAAAgAAAA7F2OnBEHp8vwmwg28toUFz+ia2vJ7s09KDN7uNPWhb41DQAMh50F0nYR+ejq2QrYeJg==
+     physical_name : .\WIN_Scatter.wdw
+     type : 2
+   -
+     name : WIN_Funnel
+     identifier : 0x4ec1247c00218271
+     internal_properties : CAAAAAgAAAC+pJaKOWZOYWmTeyblCBiYxrsVFbJhxRi2NXC8u2OpH5VpYHOwEGgdSvHr1V2Tb2Grqw==
+     physical_name : .\WIN_Funnel.wdw
+     type : 2
+   -
+     name : WIN_Surface
+     identifier : 0x409bdeda0040f9df
+     internal_properties : CAAAAAgAAABt6UVZZtNbBNJYYC+OpPdTgYKMbGNanXJOJ5w63TNbnWOpniUH+V8Sf6YQ6KhYIJB4+A==
+     physical_name : .\WIN_Surface.wdw
+     type : 2
+   -
+     name : WIN_Wait
+     identifier : 0x409be3980042828f
+     internal_properties : CAAAAAgAAAB10V1BfttTDNowKHdGbqOXeWZsDM9OKNSvRC/0O9U5/8EDZO9PsRdKp54Y4KBQKJhg4A==
+     physical_name : .\WIN_Wait.wdw
+     type : 2
+   -
+     name : pChart
+     identifier : 0x492585e50001b56b
+     internal_properties : CAAAAAgAAACNieU5hvO75PI4wA+ux8dLgTAIgMLSFcFCLt+u9xKAWOAAi0jn2T9yn4ZwSMg4wDCYmA==
+     physical_name : .\pChart.wdg
+     type : 7
+   -
+     name : WIN_Semicircular
+     identifier : 0x49245a0900075f9a
+     internal_properties : CAAAAAgAAACgnpiEIxgQy5cNOWBX4pJ2wE3PF5fWMNWh9tOOhLVfoWergkH+wiZbtGtVo2OdZVulrQ==
+     physical_name : .\WIN_Semicircular.wdw
+     type : 2
+   -
+     name : WINTPL_Chart
+     identifier : 0x4926c4140000a3d9
+     internal_properties : CAAAAAgAAADySCp+zbryLTVvB8LxDZR00kHZccu0NeRJDMDDRfQgmGCii0jkJIQ5Vs03gQH/++3XXw==
+     physical_name : .\WINTPL_Chart.wdt
+     type : 18
+   -
+     name : WIN_Pie
+     identifier : 0x49245aaf0009eaf8
+     internal_properties : CAAAAAgAAAALB3MXlNFZAsw2En1MsQXtTy6GbuDvJCuhBr9bpWSuQrIiBd5RtxFErZQO6qom0sYOFg==
+     physical_name : .\WIN_Pie.wdw
+     type : 2
+   -
+     name : WIN_Donuts
+     identifier : 0x4924598500065dbf
+     internal_properties : CAAAAAgAAAB82lRAfySMn6vB7bQLaSIW7L+7s5nY3qKptPihgbjcbEC+q7iKftqP+C+pF59RKZ9p6Q==
+     physical_name : .\WIN_Donuts.wdw
+     type : 2
+   -
+     name : WIN_Area
+     identifier : 0x49245a5600088ed3
+     internal_properties : CAAAAAgAAABzz6v/TDlxqrTumkVEu3HpJ6o2nhQD+U5Bwo3Vo5aEfEiU++hZrwm81Uy2AoJ+em5W3g==
+     physical_name : .\WIN_Area.wdw
+     type : 2
+   -
+     name : WIN_Radar
+     identifier : 0x492684d600009a26
+     internal_properties : CAAAAAgAAAB+5FZKeSaOoanTu+YllRj4ZsXNJS+AY5JSCtnj1SRo+Mg6E8BwUKjdCjGrFZ1TL6Fr6w==
+     physical_name : .\WIN_Radar.wdw
+     type : 2
+   -
+     name : WIN_Main
+     identifier : 0x4924316f0003c6d5
+     internal_properties : CAAAAAgAAAABfXmtGkfvgE60nHt6u2NvrSx0rBzl1s6nPi2Lgb5cRLwUd+xbrQu+KxKMdDy0TLwEDA==
+     physical_name : .\WIN_Main.wdw
+     type : 2
+   -
+     name : WIN_Bubble
+     identifier : 0x4ce41da40036edec
+     internal_properties : CAAAAAgAAAAS6EpebdpSDdVPZyKRI+BYuh0JqSoe71p2oc0IerJiTqoAZW7EBGQZdq0X4aFfG413/w==
+     physical_name : .\WIN_Bubble.wdw
+     type : 2
+   -
+     name : WIN_Waterfall
+     identifier : 0x42496da502a657f4
+     internal_properties : CAAAAAgAAACIhvCsG0Do8/8lwQivE4pmkNcvN4ItmOCnTmoDUMJS3tbIgVLm2j5znIN9ezu1TUONlQ==
+     physical_name : .\WIN_Waterfall.wdw
+     type : 2
+   -
+     name : QRY_ReinitializePieChart
+     identifier : 0x427a214103165820
+     internal_properties : CAAAAAgAAADcujRgXwQsP4vhjVRr0EKWNAVTywhIpzVOCwopN0PJL5FxNB8qnvqv2E9Jt39xCf/JSQ==
+     physical_name : .\QRY_ReinitializePieChart.WDR
+     type : 5
+   -
+     name : TEST_Main
+     identifier : 0x442ac07d01afeffc
+     internal_properties : CAAAAAgAAABEnTcmZz2cbL3ePdGx50pWt9a6r4yKn80qyvoh723xOse0YgAuWRXYC/s4+R3JMw==
+     physical_name : .\TEST_Main.wxt
+     type : 17
+   -
+     name : WIN_Sunburst
+     identifier : 0x442ad3270118d8b6
+     internal_properties : CAAAAAgAAADxQ++7BMGhErbs35U+trdFn99M9SToQQ1diRlmbcCJpeFGEG+limWmeDS/+Ns/+ON0
+     physical_name : .\WIN_Sunburst.wdw
+     type : 2
+   -
+     name : WIN_Heatmap
+     identifier : 0x45ffd2ee01dc5ccc
+     internal_properties : CAAAAAgAAAB82lRAfySMn1XJOuJuVE1/lPHDmzcV9WCOXzlZlGGrbVOfyRO0DSGd+i+pF59RKZ9p6Q==
+     physical_name : .\WIN_Heatmap.wdw
+     type : 2
+   -
+     name : WIN_Custom_column_chart
+     identifier : 0x47c5632901f0c964
+     internal_properties : CAAAAAgAAAB/21dLeCWNnqxonIZ1L6eYwZJ8DLJHlgWi5sHkTPsTJZsRsZhVrN2iDTCqFp5SLqJq6g==
+     physical_name : .\WIN_Custom_column_chart.wdw
+     type : 2
+   -
+     name : WIN_Composite
+     identifier : 0x47c56372020de7e3
+     internal_properties : CAAAAAgAAABs6kRQbxQcz5+3O6IJb254CGtXP/MMHQJOq7PrX6j0DPjmHdoyiPpB7F9Zp29hGY95+Q==
+     physical_name : .\WIN_Composite.wdw
+     type : 2
+   -
+     name : WIN_Line_SubSampling
+     identifier : 0x49e479ce06aefaa8
+     internal_properties : CAAAAAgAAADnY8/T0I2lRhZvnMn6bdaiB3RSunbtIGt0K5vmEue3UbslhXU61OqvN+jSLvbqlgrycg==
+     physical_name : .\WIN_Line_SubSampling.wdw
+     type : 2
+   -
+     name : WIN_Aggregated_column_chart
+     identifier : 0x49e471f7043b5a34
+     internal_properties : CAAAAAgAAADasIKGJWJKVRN8Ze9N76+/mDtn78WsbtejxyBRYcjUDDjGrryCQjUAROXf2VmXY1W/Rw==
+     physical_name : .\WIN_Aggregated_column_chart.wdw
+     type : 2
+   -
+     name : WIN_3D_scatter_chart
+     identifier : 0x4a0983880206ae16
+     internal_properties : CAAAAAgAAAAGDG6ycS6GqbTjgZZ5eE9F1PuTS47J5odSShhriLLaXv4ANvgJ8Qe01UmzDZVLN6kTEw==
+     physical_name : .\WIN_3D_scatter_chart.wdw
+     type : 2
+   -
+     name : WIN_RealTime
+     identifier : 0x4c1398f101e38f23
+     internal_properties : CAAAAAgAAACW/P4igf62ua7VRqOqtwz6+onBaWWUWbdyQt1Fe5AENMReof7g2ei0Z9nDPcU7xzmDgw==
+     physical_name : .\WIN_RealTime.wdw
+     type : 2
+   -
+     name : WIN_Pyramid
+     identifier : 0x4c1398f901f1af3e
+     internal_properties : CAAAAAgAAADqYNI29bL6JUqBMgfWEbwV3Pmr8zVdmPW2MXY3hrVnka9DP3B8RVQgk7UviQnHsyXvdw==
+     physical_name : .\WIN_Pyramid.wdw
+     type : 2
+   -
+     name : WIN_Comparative_Histogram
+     identifier : 0x4e563f6d081e5f4a
+     internal_properties : CAAAAAgAAAA3Ex8DoJ2Vlst3vry2pwHueXQAYGL6JauOmzioiYQO4hbKoj3eKiPECDiiHuYa5toiIg==
+     physical_name : .\WIN_Comparative_Histogram.wdw
+     type : 2
+   -
+     name : WIN_ColumnChart
+     identifier : 0x4e564405083850cc
+     internal_properties : CAAAAAgAAABi2FpOfSqCncxMSCUtECEX+Kn33/Csrq6sKt+tu3Mh32npxxkSPhfJDT2nEZFPK51n7w==
+     physical_name : .\WIN_ColumnChart.wdw
+     type : 2
+   -
+     name : WIN_Time_scale
+     identifier : 0x400e8ace00c49cf9
+     internal_properties : CAAAAAgAAABwzqj0M2hAW3CqHLC/XvlwTnM9/WOc4Q+rsX467FO5X+UJ8Lwb5dnZPfvl01ONdWtV3Q==
+     physical_name : .\WIN_Time_scale.wdw
+     type : 2
+   -
+     name : WIN_Interval
+     identifier : 0x400e8b0000e15fbc
+     internal_properties : CAAAAAgAAACb90NHZCGJkqkTUh9yVpumTwIuhkqeNXJzo9pmPfIYyHyQCsUt0x2e9iSeGppWIpZ+hg==
+     physical_name : .\WIN_Interval.wdw
+     type : 2
+   -
+     name : WIN_RadialBar
+     identifier : 0x41c3274d01508351
+     internal_properties : CAAAAAgAAAAlIQ0RrstjfMDkClATvY9jXTiUxAlVVwy20XGMyFgy9tombRY7jv84lY4I8LAg2MgwMA==
+     physical_name : .\WIN_RadialBar.wdw
+     type : 2
+   -
+     name : WIN_LineChart
+     identifier : 0x41c327cb02207194
+     internal_properties : CAAAAAgAAAAfe3crmMVtfsb2WAA2f31iXx7mfliuPzmqMPk2ibjaZl5WPDXk3s0Gp5AK9r4yzsIKCg==
+     physical_name : .\WIN_LineChart.wdw
+     type : 2
+   -
+     name : WIN_Polar
+     identifier : 0x43be650c02dd540a
+     internal_properties : CAAAAAgAAACNieU5hvO75PL/ou0cUpqm/Yy0XFBrqH+nJpZNTab0zHScqCy+BCghn4ZwSMg4wDCYmA==
+     physical_name : .\WIN_Polar.wdw
+     type : 2
+  other_elements : []
+  analysis : .\WD Chart.ana\WD Chart.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ data_directory : <ExeDirOrDataDirCommon>
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAAAP20/uOkAydBH/65hm7xNh9h5GgM0pvE/6IWBI9zULXOrCGLvuMqkJj1/q+CpAsU7OkP9+haAsLSkCJ6pN8kuaiw==
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Chart
+     identifier : 0x4ac600b9002fbd3c
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+ children :
+  -
+    explorer_type : windows
+    children :
+     -
+       name : Types of charts
+       explorer_type : custom_folder
+       children :
+        -
+          name : WIN_Donuts
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Semicircular
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Area
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Pie
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Radar
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Scatter
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Bubble
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Funnel
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Surface
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Wait
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Waterfall
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Sunburst
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Heatmap
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Composite
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Custom_column_chart
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Aggregated_column_chart
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Line_SubSampling
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_3D_scatter_chart
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Pyramid
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_RealTime
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_ColumnChart
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Comparative_Histogram
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Interval
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Time_scale
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_RadialBar
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_LineChart
+          explorer_type : element
+          type : 2
+        -
+          name : WIN_Polar
+          explorer_type : element
+          type : 2
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

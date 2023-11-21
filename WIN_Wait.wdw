@@ -1,0 +1,93 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Wait
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Wait
+ identifier : 0x2a4e333e4fa52009
+ internal_properties : CAAAAAgAAAC7JUg0yUVMn/e7TEbxAmADcwmrhq0ZUhLd+tYoriWnbr2lpj5kk3vlSKDuSqM4KCBqa9Upc9yfE/F1Gn4QdXpzAs1/uggNy33KeAsoEDFteSrR0NnXciCh1tExU7pt2cpMyZC/XSNe/m4tERaEXMgFY7SzYfTjkEilONzRxIgE0xpTu3/Lvv2/WxaazeWCBFBbCOoMBDW45+5E/FItBRnnkPEcXxzYkVRmVsmXhX2KL9St6iAXg/Q0zba1WnfQ52hwVSSRhTBJYZ+yKkjMS7P+3CG5srv+XF4earlq6eenbGIB0/0fjfNaq9BubcQqDHTj4Wr8gmXBXaYdhkSwdjZHIIQScqYc1oUltP5NxDF8+ExyzlYQ2dByRQ60JRUwrOpamv8w2bw00TEl0f2qaDWicNMu4zHSet6S9kutQCLhREYzDv+36qJaJBYQzF65xBQ2viCx3mYCEKdgMIbf+r/mF5t2WPRm+qVypigIEtEz1IW8Ty7xAP6mvr27loImisjQqHVocL/5FO/LhrTmFwCGzjUf7D5TRJvFUqqUUF2DFC7GyyANAkK7tioTeS0cceQmsNXg5nJYQbo8PGe5WESJEB2SFuPn33j2RDjwil3vf85dIygaH70K3jW0RqsXE4yerH7zFz72NjuPvjCNit35PdXLZnsCiGhrxX3M1ZaPYxDvgtmq23s8+0Fxo9ZkJDE5kmNf3oOrNorxFPTg5bjzi0njbMclE7zUKpLsGA==
+ properties :
+  width : 386
+  height : 82
+  widthClient : 380
+  heightClient : 76
+ controls :
+  -
+    name : STC_WAIT
+    identifier : 0x2a4e333e4fa62009
+    internal_properties : CAAAAAgAAADzAkwc6RG467SxqL+YoJQIeLZq//86Z6jvoR/bsSPzEuVYLaav1XwuYcA+UDrvl6rlLFHXZq2T4A+XHTw77NKEMasnB91gKrDm/I93xpVGMbbh56pjtCzMQ5lgv5Fq/9NPG6jJUeLqZPXZV9eQbAKobtUpHMyDWdl0VNHknLzNKBDv20tSSpj8QG6YJ6baszG8gnbimATkB2izfqZLoF9de1CgEKuly3kjLCeVrCvI639YlDiE/yK2wHZXQj/EvTTr5M0XTmwrttHtEjmg5e0eUF9HPVvD+bgRPd68lE2uYT1yIfrA3nkrlqwpLJC0GPhDztO0NpAaD5meseni6KT9PYe3Cy1LVyANIa23kirR75QhLkda31LyAxPqk3tdlrITZgknYcbVG3Uj03LmbQYO7GM5tlP3eLZppUL/4PbXE5P48psr5b30rTStiVEDiUcTVIqDJxxjBvLdo7sy/lTVX5zw7W5fY8X9xV1826D0sFMLMNr3S6aVi06Q9r4EjhFUiWkvKKn980VJ9tPfcgjiXIn9bCCjIjlP2GaNhIWvvZiP7sOzDgV+6iHPlA==
+    properties :
+     x : 30
+     y : 21
+     width : 321
+     height : 34
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+   -
+     code : |1+
+      
+      
+     type : 11
+   -
+     code : |1+
+      
+      
+     type : 12
+   -
+     code : |1+
+      
+      
+     type : 17
+   -
+     code : |1+
+      
+      
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x109be38f01045dff
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

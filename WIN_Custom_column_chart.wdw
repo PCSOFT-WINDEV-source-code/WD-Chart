@@ -1,0 +1,116 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Custom_column_chart
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Custom_column_chart
+ identifier : 0x2a4e33394e270bb6
+ internal_properties : CAAAAAgAAACnLuxMd3OIV5U91GTB0AtJ0/wV4So31Sl0Vb5wrcxSQ2j+p7LmLtWT8woF5JOq1K3lJafQUa/odBwU8bPS/G0uN/XCJUROLsyTw2/8HFqfjrNG8UxcehWh9dYh+t1p74lMXbIxGN9j1VeefUl0PZu/yK3xv+LSVRN7teAPauyD1awXLHCiQPmISKoS33mjOjLQRHqqWqpz14bXJdxVmhCpWwdYJWzk4ErM9KMY88KpwuI0n/w8sHWWq75wikBTedP8/LzfpaN0RXL4JUdDr3E4IlnmogNPweRPMS5ekRDxeyBqZ/LBZAgXuUMH9ok09/tgSFT1C6MKFkR+7hlJ9rbd0TFHdR3jtsGUCkYRY7ub7zoSEduKYJqmvOr292ZAZcaUMynwL6KZ28pETEXkFQW9zTFEV7Vk/CGd+ZhZ2geORy/HolyA6Gd3e4CeZvKdzG4KeF88tOLzPD+bGm89+sDPwK1XtWhOjZhN5L8gujFECHtppp0oyhgqd5jeAfWWNbiNUfjYOPToRlo7fGEtqcPOwHcL30eniRsm2f8kLLQ1/sOr3N4ozn79lBOxo9xvfNBqt8x+Efe0VY8chXDk9uWIz8dKHg3AdIVqUo73855CtBQMQS+2YzVZg4bJ0DJnX3bUEVDRKz7lEFRzdJim59iE1vmzAhj+LE3+BdvYbahJ6SXs0rZaX2W4PaSMd9JMhUUlwYeAEJw8LIdN8lPzt/bEqoq2SLhArTMja/StBMK9F7qqvoUK3niAE/ALYblR+owYv+ryBlnx/dqXX5HMNvZEyaIAPPg=
+ properties :
+  width : 1024
+  height : 768
+  widthClient : 1022
+  heightClient : 736
+ controls :
+  -
+    name : IMG_Border_Options
+    identifier : 0x2a4e33394e280bb6
+    internal_properties : CAAAAAgAAACqOFyv84EoQNXnI9Q9U795wIRcjmSDczrA8UPtwt30C2IbnL2l3aA8InjlWkc0KcS7wh7r0JmEWP3ds2oVC9BSCdb0HVBjqMvOT5UxQB7GJxjqoV/erSCc/DjvPTZVLBhxvIxbXk0aJ/Ty/RYTPbcal04eW+nLQCH9h6RDNHbs1QB4IjzXd0DO8h0Tns4DHLkiO3OqOqinRoReYCuq3wi8blWcfdW8RVmvqmc/Ms61NZ3Dr5rcnABD1jETUjE66C5dXJmYUH+qWRcOzNe7MI3yDOk+fvJ+L9eFMtwr36T+qQvdl8F3yJjEzmPkcMktcot2/3rYw39YEH8Y44PlQ4loie+Av77/jrmINa0G2txi8cmzsif+46e0///KC17gOhtgfBCnARp8SVe9ZlHLamdm7+qqN8JAlSeMyUMAhBOnk1yki5qXep3rFvyS9MMoma0vXEUkccEVVTMw4oPYfwBb9jiZTb4zKkSkM2+CEzvmIKP0P1yZbvV1pdAcHGojlgVlYDuuur8eeNdFR4z9IHOR/XfVmRfV/eNWjR27yDcREzuqI6+cc1Ic5MsEAENUpAlWf1r0wQiUYl5OWnaWeoPHJ0zux1Bq5LTAgPK2+zaP41te4dO1J1LioObb5zmdMWw7FxM7kBf5e2Zjgue1T+83oT/6k45RhBHa/IaG5fsTBTxKqmcTb39mIyBCVp81I8QdIiuMeFdbeL2lyCOXfdtKJffzpP/9C4BeYLHhJcHY23ttqkmA5P/LYNT6eRyAolzU1faKgHa5+DaFz1G5DPyy4J3K5MJ6y3V3O4e6e0v3Tq6LxuMTH7KzXF+xf6wGklBZgCk6xL8+d9ZIdssxyzEcKdEw2cwCmJ9aBuPsxV/PEnILOfAQdMZgq+RYtMHe4lI0za4sr1scrE9Zf2k3nA==
+    properties :
+     x : 13
+     width : 239
+     height : 735
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : STC_Explanations
+    identifier : 0x2a4e33394e290bb6
+    internal_properties : CAAAAAgAAACHxpxTfWc0PNMyL5AQ9T+lXdnzOc7iFhIwzhVkmQ9TqpRGERhjRAeRFrv3MLmLyxZIw/xkeyRLNOlLF5I5jW5xWvEFRjPbV0Y8irq+GzVfH6Wws5/MQjKwGkcX0rgnAptlbgHeSClrvrkAqZ2khObp3zwXZ8yksvvkiv0JBuWawa7SAowI6YOJh0JdWcLcsCB+eC1CZ0ZSisBZoGdc6/9wLz8QNVb7sFuyri6TXJXJDIwNcib2P6mRaPL4rrBSRfehaA5FwKq6+F8YLblL/v4WPmJP5k1TLN3eNAUOgAHlho8kBRyYYVarOJYbI9fLaxca6Fy/7YxubrRPQ95bN5tbGRErxFeQcWm1ss1an0lR6IWk6nd5O5Q7lCzQH9r9prBJx3VY6WQ7HHLEEUYzE77uthGe/5ykVJQlIb/C1kHh6OhOgPNSXwQ1+22oG6Zy+tmV9fVYF4I63fU9lcQ3aBJaN574nfNXiQqrJLI9oH8qRbbuib8qphqNS/GfwV7gPVW/gYmPpaniglnPiPzUeztKfMvCw6WRtS2yoPAdUna/+OJ/e4dOd8S8cYEbxwoJ26F+OgGvWjrAiu+OaZ0PSgnkVHYZl8HFM16JryEKi+MT4rvT69sEx1xIERmdi5dTn5oQ5aMdzBrYZPjzSuT8dnYVdj5ustUsASmD06TZ3bdVaNAKxjkYqBDuU3J3j+qpP4oxmTxDTbjG+0WYIEegvIbhy47+A0Rn6FI4zRJ2JfRzZO4F24cptmwme/YN6FFqYgyCHYdqAbEUEjTBovdYBb83uECz/xuFpfX9O0dnO6gjXa9dmH+0f/gneiEMknh+ydL85F92nf3GPBn9QvjWlRJoMIzvGr1nNmUmhN0dRHCntJNtMsdqe/w=
+    properties :
+     x : 22
+     y : 6
+     width : 216
+     height : 241
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : CHART_Columnchart
+    identifier : 0x2a4e33394e2a0bb6
+    internal_properties : CAAAAAgAAAAL7sIZpaQ2KD1I9ibjTrd47Uj2rx2mtICygjyc+of79GxJUfcD8fY+HQdqFyjom+pXT+cfxm9hSfTcDlJFwz0Row2ArSQPJnFbv79Tvt9+5HGGVucEx0QG28trSd0L2+ogNDGAaiueR9nN1EzEP+AXSy1mSdaHrr5oDj6Gd/9ksCHdHe09wwRStnhG1coke51QzVV7aMhEwkl5w2H8UcRZ9RGaP+zmBUPpnP0W6Ln244YfYUqAhzywEv3uf2mMO/ZXLG/MEYb3fR+qNeVkvDq+WBVMJJU7mCQtyuPuSN4elX/vwMJG+8OWSgUtJP/yJqb94Y1zTnHcQSjn+qtSVk2WlNLK4rlP/P2zVq2pitOITNeYqbVOUrhKG2XduSBLWUDm8HmNb+OeB6fC9/Xj6ClK1nNJJc3AsIQQEKs7jxoHs6uSnaE5f0/fX8gaUi1YOq6keJu3Abzcpf/r/EMq+1cryl0rHaX9dB2xGiTle+sGbM+7QaNuBi3nkGui/4itmSVcC3QTvVeUrh5OsDsLgZ9GTaoBGnEveiAByPnj9bYqwZQ3fXmCiJCvhCJMtDurjmap80lz2xWGpcYyUf8f/N28Nu5d9sf1WGCZC6fFApiMX23IzBz+Va7/VFE1G4CXZMAwYw0pJwHFsrqrCBozluGy8wWlqwz5AMjv0Fpxg4RUOZ2Tn2LAK+T0/6Os3pA8QjxdOADhY0/GZ4al59pGQ2GD0rTrJZSqEQeALAU1mOTnjza0X1OswvhvQAE35g41C05VIqFSZq4wSlCEkNlmH8sdNmfh6dZfEun5CuVRXi4R6Wxhmuei5PccDDahQldrhUcmnsyp9tLn8sY3U1Il6z45FIGLiiRCpnbZdocixaG17TYch4zp71kd3XNnqBJeb90SZtj2JdY6YnXwXuSY/jx8hNtc+IdH4Y9F0YR0CPG4gRKVkwjmHkCOLj/SFpuIT7pSAzZKJ7OIwPAqvWB8/ZpJV+NFBZ+5ExBnL91HyqnnTYndeu6hAUNc5n6fUK4zAjRO6LBZ/wzr7dXfueeJAG5Th2xbhjXdbWa0T6Y5AkiSMB6gcnBe2oxHWYbX9x3NU21ilWrj9FdhTzKC1wrmwqS+Qow0UQjrkobQDd7hjbNQnMCjyyXJD/yaxYDLyOCtB2VF00kkwNLu6SNJmWcRz0imF0JSRN1d6c00nP69jUcTpSjwkMxTzQ+QJtJTnGSY+n1ZpmR4tBTFnuwJtn0iWAW0vOLyyMZfYgEQFEp+4A30fvepo4T8EJ3BqIyjbsoEAi1dvadkOQh7tsiGuwUOTJc6TmdaEVhh41gFVNedsp1TffJ/zQwEz1Wk1O1wjy6Ixv0OPlob99uTqLKiSnKwvPw6jBFt2Up+xFItNDNejdJrI7PxLegznjP61lHt0976hJ9bd9qtY1+LMJ5X69zv/KdtBdsglTQLlMlcwVKYmqoBAtVyIHuC5pxI2jQWQSeBwe9pjhu4fsq5j+NCbwHPGB0bz8ZE93Q3bNEkHIkWu3cx0ssM0YDV8+yB6OtAu9PuWtjNBrBdjHxgYL3Ukr+BMSGQFgcjvIKJjnyIH0csQDyZKIhhwusHRLPulhv2+z+iIMi+bLekHzwDsfuwXXhw9zdyfOzE/iScs3aJCDDfQvHQCPw+3BuWqWTh9TclE01zl+n8ro4507Fc0MB7Qo2E5XHPZruRSNn7tuF6mjpEDkUJLFQrNVi4NVYAIeUa0aoa8srqWSAc6iovEkK7+ayPz4rj2bj7UL2f3LkR42xVds3Pq8QfEfaV/T9xctcF6hkOaFdmMtg3r79Y3dG+xcbJr6QwWbtRyAtKyf7G/YsrZ6DnC6jCMcY6ZEK1iu/Nyg==
+    properties :
+     x : 258
+     y : 6
+     width : 758
+     height : 724
+    type : 33
+    code_elements :
+     type_code : 72
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      Procédure MyWindow()
+   -
+     code : |1+
+      
+      
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x17c05de5000530fd
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

@@ -1,0 +1,208 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Aggregated_column_chart
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Aggregated_column_chart
+ identifier : 0x2a4e33374dff050f
+ internal_properties : CAAAAAgAAAD3kDvr7cHuXnAXqLAXFHan0ec2C5iHCSR8uOSOedSKR5fvhkaSooGqrAEfSPrbfQifjVjeTQbb4jpBUhXyH5KpqTTRMwY9JYnvDqOZcGzA0wsXo0AHMc+idY6wSKJnlioa5gerVwEKSE1HqzQilVImmVPx5z2LXx9nONO0gNbfp2r5YfmE7F1zb/WWqUTrOCPrtZN+LvFQyodWclAbnUWB9zHn3/tpPhtSyV/sROQTz4Kb5mNtOkZkV5yT0RuhY6hUjVqMTxWeacAgtCgP0Eg6gjNxZ4uuqegtt3pgyRTsS8CZwT3n7K8IpVNSI9VHHcn5OHsiJIAoiFNHjTDcGeDlZQ05UR2z6GTIj8vqYtcrHjcoiMqugZg0u0KwpiebaSdmXbaWouNGVtOat22l3TXSGvjQws9oyCsLUadwYNuyCvYmYs+kaBfvQ95bGeapOK+jm7exZNY/QEM5SR6zgrCcoQBzSgzMPwDdhpBrKNtKLfTyjL5odH7cpRBjDK2COU+E0LCHINAMJPRv88IVsznnSWBnznV5NxUcpdpF3Db3vUo1PleGRrZ/VP02e6TZrlGt5t7xlfWsSf7AeuYV1/SRH/sV48q7WsJh+i3/AEW6IH7cbntGI/W2Y/NLlF29SIxQpk8z1n1Eu6FIFAoXgPUPwJmm1ZxbiL1rAxIpExCbbEcaAIFVRR47qEf48nwbOUPdkTsJHh6yoAYUt560sbEbsaWSD4ze5j5WFrsWY2w0H63yGIWIEpr/Ni/p+MBhrmh20sw9Os6Ns5l3aU1IydjWXdYap8Fx6/DFnlY=
+ properties :
+  width : 1024
+  height : 768
+  widthClient : 1022
+  heightClient : 736
+ controls :
+  -
+    name : IMG_Border_Options
+    identifier : 0x2a4e33374e00050f
+    internal_properties : CAAAAAgAAABApjoNnWcSjpP9EaSDRbHrbQGJ1b/cWO9lnvCP8PsuQSRF+5x/sLefGYP4iuwSkCtj03RmTqgafGGdQGLyoG7cxf5ngGAeDqOxGXjPAFqF9zOFPk5rLkCE8J4hQ+mPyqyi1wLKWGg2Paacd7guA1F6NyYFbdyjcOy4wkHzBxoWpvpRK7xHN4AOQg69YAT/9u4QRKGZIep9+tbAeMqhTPk4qYy5R5N6pbvJxJGHjfjZvC2u6dNL/CS+wn2UHp6ST5HIlLSoF+cLTalyem/ZLGCw/V1fiM4IkZ2PPMybTxjfsvKxaIwNOST4I56HS+Ts50hEKG7QacMzP903bjyQnIp/vrd+Bw/OkZFkzQDhf2brNm5Wqklfvlqs6UlEIqVoAwT82QiHcq+2OSZSoey2i4Dc4Dq1HqTu2H9CJhZ32Z/81VVfV6Y61WujqsyQr3OOY1RArkV7/bRYkaVIPUfayRuQN17PJhy5P52r30lE/UbSrlbk/c1FHUnCsJ0FY75ykWgukSsbwvblnJyMtIAMcVK43T3xlmH0cReQR5ih3LGXEMkak5dNzz23lZR8IbPW4Dd6P3BiZZEN2/6LWBmV9s39n/yOo1IUn45MB4nbIAE6iMrlMMSgJi3/jxUw8/OO0Oo7S+2NGNJljadecB0CWAgOMRDvk95ZlQhXWlelK9Wq3PfWDF2pER2Gn5xOt3PUyOhOolCzRUiK8VybSbDnIZyjkqQwCweVwziWWLlx5RVHjHBSmHYFH5ShsmQKYQT4UoyYGaJSSKoRiDSDM+V5br6APnNghkz0hef7b0kgXVPPlgYjjtObvVDRUCP7XUaAGGpl1GVmcMsCu+hqKm+1Z3/uGzv6axj01JNsGH8QJUufUg6nLYRmxBw2cywe5kNKWkowAcR2cZleLv23XUvR8g==
+    properties :
+     x : 13
+     width : 239
+     height : 736
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : STC_Explanations
+    identifier : 0x2a4e33374e01050f
+    internal_properties : CAAAAAgAAACFBYRIwqTvcAuNFBkbQpRAK3kAEn/y1lgjC8cV8jR4NvGzyr8zg/Cy0GuHubsEqa/+XSbqbTg4QIrwwUowjDa8W+UUgU4rAKD/R6ivg65A28/jwlO8/CkFINR9t5vr3NYlHHZHhV5Q2ipwHMLM2qgv3MVxrOyklrMW4GwhKddjcekYCpJWR07xj3zMNmmgSqBZBFFzPtxhGrsoaTu7rbgy67Irj7HzzUsNvAnQs17/8iDqNeEwDtmdA2IyUHNXX9H+XzJiyUTFwdKnOHPTFwUq4N+vuqNOoEQfHyVjfam6hDCDBhYmKlcV0tjuWIfu3UClNW/XmgQBX4ExtXEzzmEFHGvAHZT9XNzUUShhzP5SFFHW00qrX3ASgQayta/b138kZZFasH+iCXPD5K1Dq+JtxNN5KI9kREuP6833O6rGI0pKcc/c6Iy/7y9N4yj7WJmd/+9WQd5eChmz5JzfYwfi582tIVZI23ns6LtbtCOYP1GrouZe1QO2obnQ6E8p8lNNy8KN44eJXAsm1r0r1SPEUOb/ZdqByDz9Dw7zulqWbxs8SnITJt9ZN5mxTk9VgRPxZeEUIOxyCvcEF0HjEIP88B1oAqv1H1q0CLEYKd+HQ1vtCMV3FWIdopvVs5IoZH+3O8+258tm4vWDmnV3U1JlXoEx6byNcawpVa1QhLB2OEARfg3KQGOp0n9YPJu47zNM+hXf4cMEMc+gwBWTs82sI5v5wo9W3Rz1WRT4crhmaS1ROO8BBetnQdyaVVlIOeKY5IqT2v5nlMMJ21F7q/Q+NID0yfKQY+x6VGJqm+DEJkA6zcgbpm820F4KUGSCgfSgliVtnWP2ECHhaKBmB1690t81KcIhwKuBat/OaAfHOmPvNvjySYj7BC1NJwzcCL1qqVGmUhVIK+SRoG2j39wS6japlXhN7PfQPbDRmkO7t28LkNiISSYBQNAlzbhaCm4azbBvB6GrJv+aqEz/ermZc1m3aQMRbguR8fYqdnAMX3TI+Ir7fBnWvaLxiiEZ+By3bklbVTOfbxRXub4rRfeAE49TGPHFhkf+TOJa7D06Mp5fDOBjT217aNi/hlLrT2DOpqIowJYJJBEYfgGc7Z6jrpzXNjPP+mu4Gv/5qZQZFHjNhs0h2R4=
+    properties :
+     x : 22
+     y : 6
+     width : 216
+     height : 411
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : RADIO_AggregationType
+    identifier : 0x2a4e33374e02050f
+    internal_properties : CAAAAAgAAABDGuOl+uUT9IYJcBYsE+P2Dwx/Khyn0p5HkbsgWOduNX+XJAY1ICQWdpF0IKMCYXovFkwt3mz8a9C/gaTl2NTy9zgR5Izub/SekLnWkAJTlUsoh+hkwse+QBpg6Rp9WA0hFodWNbkm2kBM7Iu/799A1e8u3izVWJD6MszTYe/TTlPQWhe+mHg/GvFfM626L1wkGBao1wZzs4amlV+eJ3gmD4lmnubdqVtd4HRTojyvRAyO2WNDiTCY8XwXnkZmSsc4kmbbI/n0KJM1SiUOdHNHwf3aHZFqkQO06f6L0E66+74oaB/VtGkPKF8BpxEo8vCyrgwjppNlGPLAQYZBIdHZJaoIAXtXmo2KoPpietfZyQAwxPAti032xQC1vEXSvmBzbHtH+k/D9FZPvyBRMKtvczycUWoNTRMZjZVSO7bvjGyCOqTBU0lxIkQiRKtS7dFVChbslLKen2pb1/p+f3mCzqOU43o8Cgw6pdEoRa3++vCovMuEvfi405MnVg3GDs9CeC3ouH1aelaNbnoBQEowHj1f7M6RkF9koMNK8hmmrBzHgVZ0pSBz1a9LRH3qLs+cBYrG1tyBz2KrV2wmazpYa6eEgXzBMq9hFvVhoWHkj75ZdOWK+Q7DvG+qmWzOhtDbeiJDBjToDCC6jLoUkkf0ti0bWszum3lGwY+3rEOuYApAG9PqUZgd2aL78+C8CGEKx7P281QLceW8jgPGgD9IKNF06pA4KUHVdwqNyeYivyAgVNzYN/OcchhTbk3/gZsDwPM0oLz+xAgztjLkhLUnaItx2K00LnCC0iFxwyT7+hOZnXXrMT/iQGK5h3si6zycDXUgeepE6AYtMErqkDSO4+xVAL7xm4tzEBoVzuO+jFPwigcTst79MR9l7KnGF2Uug3QK7Evw5Jg7qqvJiNl7IdT/zQD5OzTet53I+K9GV+EIB5gVsOuIc1IcTWJit5BDNWgyjsw/YGJy+9eN6qQh84EmvY761cFOPAMzNYaaIz8fyQstxZapaiY8WlnykCaBEeX5bCsK+sOuiUeLuOovr3BdS7iJNnrP2q0x3gUgulMTBKyhz/vnmv71gDQQ4Iz6RSrg9tHzDPoLvPv23H1T477unZC9ijKZK489xiGNhedJTXX+1rRexbskRUmBBWYpxxrVzlarSrRNjabxZYolyX09cTayFhxmcpI7dXO3zCFzm7V0Hw==
+    properties :
+     x : 258
+     y : 6
+     width : 406
+     height : 39
+    options :
+     -
+       internal_properties : CAAAAAgAAAAyuqvHv4xMMCE0SEkqBX4tJlOeknuhna2jqrgt6IqvDMOcbvH0nbwNeZaiUZMr/dqyMcQgqF24GPwhMg6DzKLtO/PE+Q4I7TGJdT9j/tfZiCaWiX/LLiGejyAVz1k9Xw7v7lvFJFpMAsepQnENpcudnqiFTWCg6WCgNgOGdcQwOpohF0G9xg==
+     -
+       internal_properties : CAAAAAgAAAAoIdtgk+AE9wOT6uYxmDfhx5mr1XctteDTfAIrH8OuihzVU6dQeASEfVfSkWkvHONvvOyPKS7zFQFx5y2OK1AxkXqJahW9D85TRa4zAbQdgAEmsUK4jxWh+5aKn57q4SA8eB+gB+E8N3u5OzcX2OMJVzMFtB9mzawKBR0=
+     -
+       internal_properties : CAAAAAgAAABeAeBSNWay5js29K3I4jWs2G2ZIqTluwhJsgseUhA61wnuHII8cVOKQI3CJ3hOmpRQXhWZG5O62fjZyL6hh4pXOz++Xo2Ya7ZoD02WPV1DoXsL0xxtF1MMphFDjNbBBRusOHBpS3vVwO4WoGZomUERHkCyz5RCAdYllgh52YqxnAX67saU2u2wF4iEDTVtFgcuhltnW9Enxg==
+     -
+       internal_properties : CAAAAAgAAADWwsrHhk8Cy4/ZvPHWsxpuQ+QUKQVuOw9VLiaGeVTIQ3Zj93RmNRx3c+wefTmrlLXsFui4QmDr5VW2XpB+4SvKRvgnGBTHBmiwjAhT9JReC7yOiUAH16yLfud6R/lAqturQK9qhXo2xN39zK067eB0e1DlMe/SC42g7QKJ
+     -
+       internal_properties : CAAAAAgAAACmo1niEWaCDaUxiIQXrhWXlSuRh7njs46FsjARVTm8OJKn4clmJuJ63/34R6ftWmGFXgowj/SrP0MlRWNGeJVU2rlCP0p2hrx1/yi5v/ZLsivQ49juUfN3hehM/TxcL2LmquEGlTOWwRkHieH5xv0nddGrHqHkTy6Ig5s=
+    type : 6
+    controls : []
+    code_elements :
+     type_code : 6
+     p_codes :
+      -
+        code : |1-
+         // No aggregation by default
+         MySelf = 1
+        type : 14
+      -
+        code : |1-
+         
+        type : 15
+      -
+        code : |1-
+         
+        type : 16
+      -
+        code : |1-
+         // Stores the selected type of aggregation
+         let nAggregation = switch (RADIO_AggregationType, grhaNone, grhaMax, grhaMin, grhaMean, grhaSum)
+         
+         // Applies the aggregation
+         grColumnAggregation(CHART_Chart, nAggregation)
+         
+         // Redraws the example
+         grDraw(CHART_Chart)
+        type : 17
+  -
+    name : CHART_Chart
+    identifier : 0x2a4e33374e08050f
+    internal_properties : CAAAAAgAAAAZ5IaDRgNmfghDM102ZpFuMvqWnat/M9XGVWjobhFIUflKIyYJ40/U+klv/uWq3JDSQzNB60ncqZZhAhPqfYNm+4O2DEdG1nurN7G4vwPJBI/cr2TGHb79BEUT6rNPSurGHxzhKQ3t2nCGLnohxJz2bIAd74pBuvrKfZv4WbnbO9PYISRw3UmFvMwCJrIyijw/H+1YU8W1NWh0Yt7NaAjLe4D3XlEUCdK3zM/VZtqgsnO78P6dRBrltpwl4Mh9HDue/s5KfHbzSW44C+mQUJjerKeH1pW5Vl/MzCrjJxOhzsZ1aFiVOnsWsQnrneatY2cfvDw2gj5DAuQUza7vZnj3cS6ED2MGbo6nTOhzT4oz6IYlKKB/8fgZhmIT/jl5RPyteLwpGHGl2hlUshnwYacWQtdvaMWe7OMx1DJ1YfkIq+tUlGMRo47eafb6Ht8KVKD8u4JEU0hhVyyLXjBN+kr7ThNRMeXBvQUGyWJE6QTwDiGyPFlO844ryATP3ZA/D901L7O8gIxsODZo7cOEKLPNR1aS5aXDrOf+M9RERtlfpPjjYrmJRjq7iaYILHsKSpYuwZVOysHOwlN6Z6TC7ChVRBtwTrZdEZQAIr14EK8NJVVhAlp15hW7cyw0J6E9PhMjkdrOvmAnh5VnY86Kbd/2f2sDuUcPjvi+2vz+MOEhjg5m78zUwf8XV9N7kaP90z6XcQO9Q3lZY+/3ooUIqXQ6UclbZiCtISRD0HTUA3xSSyRzvO3+gh1XIne670J5VDAHPCKAS9Z381YTj/HdOPINO+Q7ejNNZyzVMdkkJw2SunPWQrugDlD1HGRoGSrEi7dm11e++0pMm5+i6xUMVrq9YVJwBWw06BpX3wiOyJsQU8R1Ep3N/tNGLi67chnfPobdsb7LRVqIFEaqW4C+Zn6qYet5HWnI+8s95LzL4r7w+m/PN9rFQKV7a1OSFXRDaX3lvfqpzuIsnvAJLZm2eUAlKKObJ6SU+/9u2C0dXT3fQ/6YmNXpQ4LHZzBODgPoWYBZkbDAUEVBCOHHQ5hPTWQEerGKdM7aXCbX6aPjzwMrFFxhitywoVZus4xke9w4QGeeLZAHKxDMvQsBA8M67STPO/r+4P6b2lg91tIctWDXaDFWfrtw4SBHux8b8ZGKrd4H750Z0yQXh/mbuyYn5ZG7nALhDGrcjGEpD6JJkceWWm3ZVsNkKbPxHMJQfTH9FUd+Msf7LjYx7Zawyxo5X+7n41l36BVdpe2mNpvJZDiN53JQxR+us2eUVM41a1ZehIahn36nVunwZPhlUWeeJal795VpFE8O4su8WvmsI74+483Wgb81gP5fXO7cCgc108bDPy3Uf6Ob9TmvjwhfO4lmy7oPgry8rdfRB9aMPOwL7y4J1I8AdJC+KKpGa2adkEDjj72eIE77c+GYn26de0vmvE8U4IOEGCDQhjWPgBVMHj5m+09/wBghm1G+8CgQtNTICOZmntB/XUOArhjdorq6dCgzg7gpkxYwIAMizLGApISGvGJS94lBp5ydOLHwykkciQVTZ8E2nDxW4B3ZfPZrSPdo0DxbdeAJZ7Mo5Jrw5TElb2Kn/8ZB8SYRCffYMIjsq9XijBiIel+vHGedm3pRZCj7V0BsF/B7K0hBUCQNNuduroaT08FYMA==
+    properties :
+     x : 258
+     y : 51
+     width : 758
+     height : 679
+    type : 33
+    code_elements :
+     type_code : 72
+     p_codes :
+      -
+        code : |1+
+         //Runs the process defined in the template
+         
+        type : 14
+      -
+        code : |1+
+         //Runs the process defined in the template
+         
+        type : 18
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      Procédure MyWindow()
+      
+      // Structure to store the data
+      STData is Structure
+      	dDate			is date
+      	nSeries1			is int
+      	nSeries2			is int
+      end
+      
+      // Array containing the chart data
+      garrData is array of STData
+   -
+     code : |1+
+      InitRandom(11)
+      // Defines the first data
+      stAGivenData is STData
+      stAGivenData:nSeries1		= 50
+      stAGivenData:nSeries2		= 300
+      stAGivenData:dDate			= FirstDayOfMonth()
+      
+      // Adds data randomly
+      for nSubscript = 1 to 100
+      	
+      	stAGivenData:dDate..Day++
+      	stAGivenData:nSeries1		+= Random(-10,10)
+      	stAGivenData:nSeries2		+= Random(-20,20)
+      	
+      	// Stores this data
+      	Add(garrData, stAGivenData)
+      	
+      end
+      
+      // No aggregation by default
+      grColumnAggregation(CHART_Chart, grhaNone)
+      
+      // Forces the chart drawing
+      grDraw(CHART_Chart)
+      
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x19e471ed01713298
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

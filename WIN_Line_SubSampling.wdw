@@ -1,0 +1,201 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Line_SubSampling
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Line_SubSampling
+ identifier : 0x2a4e332c4b43db9d
+ internal_properties : CAAAAAgAAABxu79/+fT9nAaJm0t3fokxnX9VQug9eCmmRUB2dw++ejGfPY5MCaEjDWuttRqRFNmtdZUrQsv8lN/RxOouW5MPdpbSSM2ShdpJK9P3i+LMZHGIGLk/AFdziD97pWaxvRFGrKAs8kZ21jGnEBmeA2ZMreta7gWn2pb/Li/uU6GjufabnQUFY05IT6bqTs+Q/7+9xYiT1Pj3aLjqunhlQPJOSo/A4SGMwR0+rpwIUYbBwsZ6+0nMawBD96OQShZySCdfuhDsdx6BMbkrHlBi0U008EGkwn3D2/gO9GZmpcx/1iyF9hzAtr7FcmUSvea8drEDk1kyYa8d5Kh3Z4Yu0YBA0vQy/+qgHBQxuAV7Eq/KlGzEpdJ7y6UMp4mJeMFlWH3HjV1e/O7Qm9ptDpNnJ79t2IA9nGJxPUFZI6xwqWVAE2USXSyLSzH+chKyxss3T1D2uqdyEUfeRZCCSh92u9sBHpov3i8pjnZJsQKjQuxEWI4kFvYGPSR2h7/t//Goxa9R1af3uTeCTeSws4WBK/m4OCS3v5Zsads6/HObvKksxcf/qoqeXhGOcRGKBBrI6om0+0zwWBkYidRCb1bZ7KiNZgo9i74/psslHIuLrHxegZMtJmvqoFfYsXInlevOFv3JiqmbIAp8laqIMd3uW49sM2FUojZWrlQd6qMBDPUBELgIJ3zp3Q2qk02pyeppb5PEbIefYg+O4d8+bsDBDdMTwVXmfLQVObQ56W6uNLbV3NbbmRewlsuV4cfGOpAw1K5PsezEIYZiKiltu0JEsdXW9ayfnMDCNe6baPtgNd5xc7qvIqVOqRXRmxt6IHevOpOflq6hJ23+nAyyK6vN2Sj821+OkX8VYg==
+ properties :
+  width : 1024
+  height : 768
+  widthClient : 1022
+  heightClient : 736
+ controls :
+  -
+    name : IMG_Border_Options
+    identifier : 0x2a4e332c4b44db9d
+    internal_properties : CAAAAAgAAABhR/enmMDupN+4jmfa5Cbw0Rs9tuRMO494ijp4Sz/fou1rR+p0GN+WMGcmwJHw/Ash3T8KSWd8iiHsDKkidRMFhu2N4lvcUDFR/QXFxnl52xRJJ9cOBflUn41azEjlrYfDONrtqVw4O04FpviURs8YSb4J9XDtwldaszTFl1VVqxLYPMF1PLBQfHe6/l7TJYX/llUvZtVvz85WOFrecI/wzHP4rJv/wbXHu/PDj1J279Vn3RLMia8IdZYQ+s1UyexdSWVQQunEmonXUmskAg4xhcTMpbMr2pA3DmBbgkieat9U6nhC60xKqXiLUyFOdGaXhuvkMXuT+Xr/4FBNKN9xzHM9ZetPG94mPOZftOv83QTl18ehYVaV57Lf/9sW/vjQzY9mRqVpKnlhPq7Nzf2oCMPSzhQWmabqiS/dSl4sj3CE0ZcmNYI4GbKpl8FA2k/3xI9S0qf1YWStgZVtgcqEU4/6J74+sIaxYKwk1bnbTtQIlD1fz4TcXvJpe99ODEWFwsxFkFYZBqe7n7ZnRGd434iMHh75fhKV5n9QkTNLo0PhUAOlkfng16T7PqgOSE8MMEfBD8E3DN0d4gxESTYsUq3D/JOJCJ6PKBiQMvIyRAIPbpGsf7mmwJOhjKsZozScpc7zu+uDh60cLpeUhp+yVxEBnU4awdZWZyKA1/2hF9Z7IxwCPClbL03rdddPCgSnVW3p1GkHpwOfVmQhiLQ3F4mm0ZGEImlmHp/73EzbIVm78qaWaJLW0TDQALqVrccQZ9tWWhQGvk1q8ipaXPol69t0cEQAtFzRL2PVRWopVza9MjJaMPFdeKDwVUFm4l2CKI7vgWQJL5HrtMSTdXDH/c3Lxf3k8EzAtqTu2JDbTqqF+tVb0exCa+BBKzUZCl/nwGoZ
+    properties :
+     x : 13
+     width : 239
+     height : 736
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : STC_Explanations
+    identifier : 0x2a4e332c4b45db9d
+    internal_properties : CAAAAAgAAABFBmO0bp2FHIA4hBZ178Fo92M6FkL+PBm1I+3j0Iw2lZCelKPHPGmn6bjbXWX/RBL4ftsbPX407E5myTxXgZ9dubUkUIg7cSDt6AImdAkmsdShZ6lJ4ZJx0ET+ocgKN7U9kW7jwx710SSB48LAqeGnommdiFEjsQNJSRE9JhizBQQ5KhmhaQBrPivnPD1vDMFYAwshjXR51DS0AJpNFSyWEFPOOlL33yRG9pd9x2LfVoMnmr5v6iLU2adroBy6bT5k35/0B1SORslWQc+SQCLmiuJgrjqeMfj5QNKk/mZlVoR60fZ/jmdxxPFlrnUHy+CXwsQuLSnNOi59zaCiFmSBy4N1J+iOHot/F78S6tQPPVxs3ccGpUd8QJfTfwaVHfOxYFLKtBLuczOePnbnQr/spLfLM/5YskRlsiWdI9o4UAYvcZZ6ZEM28Mlg4PjfaWzBnsZ9HBccLz5KXT8c999aVwX2qabkuYS/Rc2z6mb83PupNojcMkfpyXcKHPA99jUuCXL/WDATn825mfPTauv8L8IKBBuL8z/zDKhGZ0luYYxx+efisXiWOoITVUGzrntOlhSImIv6gRlqVMuDCRHiQ+djBKkzzO1chXjRg4pngTPyWJ1NELfw1Ij71cAjVm1uls5/8QohqIO9mQsodcN66C/drg1dwnGGAbCOMTkk1hXVRoo65qV3mWyto/y91hDmVn+Z8IQeBANyrQmHaVa7UA9Dr8HHwWOO2CJCv9QhvzowUE1F2eoQ8KAWRwq5h7pF8EeCKZ2MkQkwgP5a7L/BP2MW+/S6W6wqXPdws5bueJsMo9RjdmLpUPXbCydeGbVvLWIBlSZ43I4fNRdyJqSJLaXQKMh6KBKU09sg8f/mKXkoMgHYCSHB6DdCMAGe0XWKbXv24M6gjufQYRBJkPsMx5o2PkDAhxYV4EvnJKRfQsKiCxi5py0saLYfR9XITlrFevrbv8qUfO18cwEeOA26FRyCWNgEnU66unLulK0ywQ==
+    properties :
+     x : 22
+     y : 6
+     width : 216
+     height : 411
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : CHART_Chart
+    identifier : 0x2a4e332c4b46db9d
+    internal_properties : CAAAAAgAAAClrAFCVfai3O6EET8ydi9GbXLd0cJ1urA/97AK1hw02vbkD2WGNR4W08ORqHY0pTq1J1st0tNJv4QmVgGYDggXVDcgRubf8chnkMxAG3HmpXUH1WAVc5VO3HoV+hm2HZQQHZ+JOMCWTUVEs4zBPjdmEil2GsYD9Edx8YOtuNiBVVkXZdC3AlqXpqB16nQKGRPA8yJh+0azh4ikhJyqhuGFkGYIZcE7ILU/diSmZVAhK4wLxTQ869kuQtNqLzdOSXCJidS7rabP2NR/0G+FmpFX2QZnZtQr0cKSynqsH4BXmJ5kWHVlzMx3xaFwn07cZ5TuUOZV7p1+XAF3P7qAYzZ5E0rj1rOMC/gmmyZu20b910dAscT5ZMYk3RTpJt9GLpEHUKWXitjq6amrIZ3q2P/MDLJOnI0zLXNH0ICG+DBNvLxvx++hv5USpysAac+f7Q0XxbnbrNWhJCArHWDSevt0gY3D3xoCdAcXoDiO71dRIC/NMqk+UxrEMwzzTCgW4iWQ5ZJ41oGCEeEi+8PaCWdsfngsBr/CsuWK8TbtReMadbm7wGjonvUuXFG2igEQhy8uUgkezSdB2K6RCrO2RbE1pDHhaINIK7Wy3F0BGuxAO3DeilDGIa/6ZVaS1yijQQ70Wx0jMAq3dHfB4sebasWeFfMpQ6mxYXntm3y3Pi56IxaJ/ojmV4Rjr0qY5Hd6GVf6yDcONvm4//xHgkfa4ls4dt9HJy7dgcc05kDfMXUvF0o+n9AIJckeHXCwYYgJ++znbFbWR0Xtr6+skTF46XLfJ6CFT5vTR8l7ZbfLPUOPJw/S/PCm2J9k2c6EVaA0i7RwkHH+ppTHtQQLedP6UHtGE9E5nrQGK1QeeLY1E+SzvbfVhx1IG3d8Cw9MviI54FPHZSL+qD5z3jMtb6wDj77y0ME8DH1cX65aij2SYxeLUg4AL7nE0EtYf6zbLLvWncae1LyYEqmsGSTxQrUMmUns9sdbKl1OdnI7yT7O/lPfwvqLMKEMzD1Wo3H+J27JLPzhFxP94WrH8jEeJGcTXsxSJ6rmfirJ0JCzZqETY0RcKXkxLNZXL8hzZWx16mkXWDCa1DhoesLYxgpByKYlyC03WgnW0mVR8W+hZZvrKCkdKFQEA/ppeXK6PwlYEH02xF7NX0gYfJyp0lakXJFY6xcNl6z+7J3Zizud9ZXyC137WlQZG2GFYBmCLWA5bVJBNtVBxfO2idC2Jvtp8HjfWTWxavitKq7kSldR4yYLbk51hqumAx2CuSTRPISKbggCWaoyuQVGUgqOsWZy8XglTKB0tp4Q/s0Ab/jwgjMWRGLCbEmJkJC3tlkpegZueOc7Gc+BcKFUQ9nIdnOkbJXMf03YntDsgkcuhobN0jfE+Og44cRx0BIWuUMTQ1P/fpTSYZOLS53Wq2prwIH5le5tGdQU5wXxW3zruZvSsBneXVQpuyTJMTCRQwbjICr49QgBYPejs9l2D2LZhMCFEp1LdZW3gJ/1nVStdNgHodSrTu53r6uwV2IVMGcgqxYdr0Vgpm0IHgtv0Cpv+ubODEa55Wy76n8udCkK9/Cart01rNyfoNOvcfv62BrJzFiF34J7Ptj3cmxVn6gjzGPv9QM+qNI=
+    properties :
+     x : 258
+     y : 6
+     width : 758
+     height : 724
+    type : 33
+    code_elements :
+     type_code : 72
+     p_codes : []
+  -
+    name : BTN_SubSampling
+    identifier : 0x2a4e332c4b47db9d
+    internal_properties : CAAAAAgAAAAS3/v4PQLM7C691p5H0rCXZwsqhkD0J1UDydMvVxuPTZbLlhU1SLU/i3n1/jQ7bgqnlajQDlZrbR5xnJfmRQRlWOnq7PSJ11XHdrjMrneAQf2QcpqRG1DPSvYuUDX7VClwj5St1v+HWlA854Sybsh3tAX22Ww+vBcU/ucGl2bI2dchMzhGphUu21LazXntQ8PTxBtQfGgMGhB05VqDbBCIHUJrSOGRBfCgc9gPwJWqoJpoVMlRbCBtObHNcY1PcrgUE4jDHIrWwvnREAc5ZQM60Vu6hKzq3KehHR1IBHP/AdbWN6HHyxFGRSHD1p9tZlfoKg62cxIXzKfhWq1w1D994ozCKlEy0nzTrh0bdflPXX3Wlj+bNuKOLJdOS01KprPn3FVmxeoWqCGAzA46nyhIb8GobBfvubWy39ur2Qf9q9m3DfSMZqALmpNgBy5xhUp36aOMAssSCh3RgUQ1V02NDt5DjmNDQDAZKIBgWkhpwIVCa0xZeiQP2/Tc9tpwWp2yjY34hla0nMkujF7URIvojqRrASF5KlcxpxEmcImRyWeCf7XrtpqPP1aPx9yanpKcw8GndHGygd/McPKBeZg/6gXvkVhHdZsM7CwwQy87zm3JGZO3gyMK+22/C2Y0c44/2pIGSoFJdOkyUnoLyutZ4Do8VsI+UMGCfk9RBxO2UhRHrr7/tHrT/V1rREVBZs4AtzMFCLUT23UKa1AzYt4pIv+7KZMb0Obt0/E38ZmuZzoeAmC6Dls2sPKOnTSoslH1UJUfq/A7L624Rf+oxkJScqbD+QwZPJFRfzH6C6f1Nz9wQqGjb/GaY2Tsy0Kb6+gvZDZMWBCBnpWw4FWAjgHJ2kFpKIzvG8lesKcZ+nxyVO1M8rYqTc3muMM5+DvPXlA14stSdFeGbCMrADEI77hQTmi4UbTNJ+S/BBFRXJhYgvt6kqfLQ//2vYocNLziW7eotG2a7fst6YqOPvvC2RlsKHGjR+W8lCWosXYxzdF5I5T6XgBa+xsa
+    properties :
+     x : 24
+     y : 320
+     width : 207
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         HourGlass(True)
+         
+         // If the sampling is enabled
+         if grParameter(CHART_Chart, grSamplingEnabled) then
+         	
+         	// Disables the sampling
+         	grParameter(CHART_Chart, grSamplingEnabled, False)
+         	
+         	// Modifies the caption of the button
+         	MySelf.. libellé = "Enable the sampling"
+         	
+         else // If the sampling is not enabled
+         
+         	// Enables the sampling
+         	grParameter(CHART_Chart, grSamplingEnabled, True)
+         	
+         	// Modifies the caption of the button
+         	MySelf.. libellé = "Disable the sub-sampling"
+         
+         end
+         
+         // Refreshes the chart drawing
+         grDraw(CHART_Chart)
+         
+         HourGlass(False)
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      Procédure MyWindow()
+      
+      // Structure to store the data
+      STData is Structure
+      	dDateTime is datetime
+      	nSeries1 is int
+      end
+      
+      // Array containing the chart data
+      garrData is array of STData
+   -
+     code : |1+
+      
+      // Display mask for X coordinate
+      grTimeLevelMask(CHART_Chart, grntMillisecond, "CCC")
+      grTimeLevelMask(CHART_Chart, grntSecond, "SS")
+      grTimeLevelMask(CHART_Chart, grntMinute, "mm")
+      grTimeLevelMask(CHART_Chart, grntHour, "HHh")
+      grTimeLevelMask(CHART_Chart, grntDay, "DD")
+      
+      // The chart displays the hours to the max (the data is spread over a single day)
+      grTimeLevelMax(CHART_Chart, 3, grntHour)
+      
+      // Start and end dates
+      dtStart is datetime = Today()+"000000"
+      dtEnd is datetime = Today()+"235959"
+      
+      // Initial value
+      nValue1 is int = 50
+      
+      // Loop to generate random data
+      while dtStart <= dtEnd
+      	
+      	// Defines the data
+      	stAData is STData
+      	stAData.dDateTime = dtStart
+      	stAData.nSeries1 = nValue1
+      	// Stores the data
+      	Add(garrData, stAData)
+      	
+      	//  Sets the next value
+      	nValue1 += Random(-2,2)
+      	dtStart..Second+=5
+      	
+      end
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x19e479c20288cba9
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
